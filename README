@@ -1,0 +1,1 @@
+Easily clone your Rails Databases. Requires the database.yml fileto include the server hostname and user for the app.
